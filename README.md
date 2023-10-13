@@ -21,13 +21,10 @@ In task 1:
 
 
 ## Task 2: Generate separate jsonl files with test, train and dev respectively.
-
-This required the use of *Scikit-Learn* Library for the **train-test-split**, where chosen json files : Swahili, English and German had a training, testing and development sets generated from them and stored in the **Split_data**  Folder. 
-
-The files are named according to the split such that the files produced from the English json file are: '*en-US-dev.jsonl*', '*en-US-train.jsonl*', '*en-US-test.jsonl*'
+* This required the use of *Scikit-Learn* Library for the **train-test-split**, where chosen json files : Swahili, English and German had a training, testing and development sets generated from them and stored in the **Split_data**  Folder. 
+* The files are named according to the split such that the files produced from the English json file are: '*en-US-dev.jsonl*', '*en-US-train.jsonl*', '*en-US-test.jsonl*'
 
 ## Task 3: Generate one large json file showing all the translations for train sets : Pivot language - English
-
-This basically produced a Json file in ***pretty print*** to view the translations from *English* to the other languages with train sets.
+* This basically produced a Json file in ***pretty print*** to view the translations from *English* to the other languages with train sets.
 
 
