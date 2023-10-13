@@ -19,8 +19,6 @@ In task 1:
   
 <img width="1037" alt="generate" src="https://github.com/Abbymuso1/Multilingual_translation_dataset_processing_and_generation/assets/89918147/1c742a3f-8805-4f5f-b575-111d778f92cc">
 
-
-
 ## Task 2: Generate separate jsonl files with test, train and dev respectively.
 * This required the use of *Scikit-Learn* Library for the **train-test-split**, where chosen json files : Swahili, English and German had a training, testing and development sets generated from them and stored in the **Split_data**  Folder. 
 * The files are named according to the split such that the files produced from the English json file are: '*en-US-dev.jsonl*', '*en-US-train.jsonl*', '*en-US-test.jsonl*'
