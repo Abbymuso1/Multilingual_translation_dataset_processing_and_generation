@@ -1,0 +1,2 @@
+# Multilingual_translation_dataset_processing_and_generation
+This project processes and generates data from a multilingual translation dataset
